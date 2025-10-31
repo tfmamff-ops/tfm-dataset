@@ -5,13 +5,21 @@ Este conjunto de datos contiene 320 imágenes utilizadas en el desarrollo y eval
 
 Estructura del dataset
 dataset/
+
 ├── DEBLAX/
+
 ├── EUTEBROL DUO/
+
 ├── LURAZIC/
+
 ├── LUSANDA/
+
 ├── PARMITAL/
+
 ├── TECNOMET/
+
 ├── TEROVAN 100/
+
 └── TIM ASF XR/
 
 
